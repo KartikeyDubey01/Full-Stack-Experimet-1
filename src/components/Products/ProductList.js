@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { useAuth } from '../../contexts/AuthContext';
-import { removeProduct, updateProduct } from '../../redux/slices/productsSlice';
+import { removeProduct } from '../../redux/slices/productsSlice';
 import { addToCart } from '../../redux/slices/cartSlice';
 import ProductItem from './ProductItem';
 import ProductForm from './ProductForm';
