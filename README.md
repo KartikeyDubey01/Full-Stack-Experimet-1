@@ -126,7 +126,7 @@ state-management-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/state-management-app.git
+   git clone https://github.com/KartikeyDubey01/Full-Stack-Experimet-1
    cd state-management-app
    ```
 
