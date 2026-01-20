@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce State Management Application
+# 🛍️ E-Commerce State Management Application (Experiment 1)
 
 A comprehensive React application demonstrating state management using **Context API** and **Redux Toolkit** with authentication and product catalog features.
 
